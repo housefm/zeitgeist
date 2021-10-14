@@ -10,6 +10,41 @@
         "adapt_height_first_image": false
       }
     },
+    "16342368216047c888": {
+      "type": "rich-text",
+      "blocks": {
+        "16342368216047c888-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Up Your Game with ExerTies™",
+            "heading_size": "medium"
+          }
+        },
+        "16342368216047c888-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Comfortable, hypoallergenic silicone sleeve straps for athletes of all ages.<\/p>"
+          }
+        },
+        "16342368216047c888-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/exerties",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16342368216047c888-0",
+        "16342368216047c888-1",
+        "16342368216047c888-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
@@ -116,6 +151,7 @@
   },
   "order": [
     "image_banner",
+    "16342368216047c888",
     "image_text",
     "1631884866622757ab",
     "16318848828683d580"
