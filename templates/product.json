@@ -60,10 +60,96 @@
         "add_image_padding": false,
         "show_vendor": false
       }
+    },
+    "1634239025816650d9": {
+      "type": "multicolumn",
+      "blocks": {
+        "1634239025816650d9-0": {
+          "type": "column",
+          "settings": {
+            "title": "Comfortable",
+            "text": "<p>Made from soft, stretchy silicone, ExerTies are so comfortable that you'll forget that they're there.<\/p>"
+          }
+        },
+        "1634239025816650d9-1": {
+          "type": "column",
+          "settings": {
+            "title": "Hypoallergenic",
+            "text": "<p>We only use medical-grade silicone, which is hypoallergenic and skin-contact safe.<\/p>"
+          }
+        },
+        "1634239025816650d9-2": {
+          "type": "column",
+          "settings": {
+            "title": "Regulation-Safe",
+            "text": "<p>ExerTies were invented for soccer, volleyball, and softball players and follow league safety protocols.<\/p>"
+          }
+        },
+        "06161a75-d58d-43e4-8f4b-4297840bc4a5": {
+          "type": "column",
+          "settings": {
+            "title": "Easy to Fasten",
+            "text": "<p>No more fussing with sleeve rolls. ExerTies feature an easy-to-fasten yet secure button closure.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634239025816650d9-0",
+        "1634239025816650d9-1",
+        "1634239025816650d9-2",
+        "06161a75-d58d-43e4-8f4b-4297840bc4a5"
+      ],
+      "settings": {
+        "title": "4 Reasons to Love ExerTies",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "16342387612b7fafa6": {
+      "type": "image-with-text",
+      "blocks": {
+        "16342387612b7fafa6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16342387612b7fafa6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16342387612b7fafa6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16342387612b7fafa6-0",
+        "16342387612b7fafa6-1",
+        "16342387612b7fafa6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-homepage-closeup.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1634239025816650d9",
+    "16342387612b7fafa6"
   ]
 }
