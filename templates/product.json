@@ -36,6 +36,15 @@
           "type": "description",
           "settings": {
           }
+        },
+        "5d915cda-1629-4137-9651-9b7d4d427d90": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "DISCLAIMER",
+            "content": "<p>Choking hazard. Small parts. ExerTies are not suitable for children under 3 years old.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
         }
       },
       "block_order": [
@@ -44,7 +53,8 @@
         "price",
         "variant_picker",
         "buy_buttons",
-        "description"
+        "description",
+        "5d915cda-1629-4137-9651-9b7d4d427d90"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -102,7 +112,7 @@
       "settings": {
         "title": "4 Reasons to Love ExerTies",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "column_alignment": "left",
         "background_style": "secondary",
         "button_label": "",
@@ -116,33 +126,109 @@
         "16342387612b7fafa6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Up Your Game"
           }
         },
         "16342387612b7fafa6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16342387612b7fafa6-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Stay cool (and avoid those pesky tan lines) with ExerTies: the go-to sleeve straps for athletes everywhere.<\/p>"
           }
         }
       },
       "block_order": [
         "16342387612b7fafa6-0",
-        "16342387612b7fafa6-1",
-        "16342387612b7fafa6-2"
+        "16342387612b7fafa6-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-homepage-closeup.jpg",
+        "image": "shopify:\/\/shop_images\/exerties-product-new-details-2.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "16342390840591fae0": {
+      "type": "image-with-text",
+      "blocks": {
+        "16342390840591fae0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ridiculously Comfortable"
+          }
+        },
+        "16342390840591fae0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ExerTies are made from the softest, stretchy silicone. Not only are they chafe-free, but they're so comfortable you'll forget that they're there.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16342390840591fae0-0",
+        "16342390840591fae0-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-image-text-2.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "1634239379fc310ac0": {
+      "type": "apps",
+      "blocks": {
+        "8c5b8025-5080-43ce-96c0-347dac223c7a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "8c5b8025-5080-43ce-96c0-347dac223c7a"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1634239498cc6c2a13": {
+      "type": "multicolumn",
+      "blocks": {
+        "1634239498cc6c2a13-0": {
+          "type": "column",
+          "settings": {
+            "title": "Can Kids Wear ExerTies?",
+            "text": "<p>Yes. ExerTies are great for anyone 7 years old or older.<\/p>"
+          }
+        },
+        "1634239498cc6c2a13-1": {
+          "type": "column",
+          "settings": {
+            "title": "Can I Clean Them?",
+            "text": "<p>ExerTies are dishwasher-safe and washing machine-safe on a delicate cycle.<\/p>"
+          }
+        },
+        "1634239498cc6c2a13-2": {
+          "type": "column",
+          "settings": {
+            "title": "How Far Can They Stretch?",
+            "text": "<p>ExerTies are 4 3\/4 inches and can stretch to up to 7 inches.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634239498cc6c2a13-0",
+        "1634239498cc6c2a13-1",
+        "1634239498cc6c2a13-2"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
@@ -150,6 +236,9 @@
     "main",
     "product-recommendations",
     "1634239025816650d9",
-    "16342387612b7fafa6"
+    "16342387612b7fafa6",
+    "16342390840591fae0",
+    "1634239379fc310ac0",
+    "1634239498cc6c2a13"
   ]
 }
