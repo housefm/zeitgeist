@@ -8,6 +8,11 @@
           "settings": {
           }
         },
+        "790c5132-3c6a-4cf5-9d4a-add83da317a0": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "subtitle": {
           "type": "text",
           "settings": {
@@ -49,6 +54,7 @@
       },
       "block_order": [
         "title",
+        "790c5132-3c6a-4cf5-9d4a-add83da317a0",
         "subtitle",
         "price",
         "variant_picker",
@@ -147,6 +153,47 @@
         "layout": "image_first"
       }
     },
+    "1634239498cc6c2a13": {
+      "type": "multicolumn",
+      "blocks": {
+        "1634239498cc6c2a13-0": {
+          "type": "column",
+          "settings": {
+            "title": "Can Kids Wear ExerTies?",
+            "text": "<p>Yes. ExerTies are great for anyone 7 years old or older.<\/p>"
+          }
+        },
+        "1634239498cc6c2a13-1": {
+          "type": "column",
+          "settings": {
+            "title": "Can I Clean Them?",
+            "text": "<p>ExerTies are dishwasher-safe and washing machine-safe on a delicate cycle.<\/p>"
+          }
+        },
+        "1634239498cc6c2a13-2": {
+          "type": "column",
+          "settings": {
+            "title": "How Far Can They Stretch?",
+            "text": "<p>ExerTies are 4 3\/4 inches and can stretch to up to 7 inches.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634239498cc6c2a13-0",
+        "1634239498cc6c2a13-1",
+        "1634239498cc6c2a13-2"
+      ],
+      "settings": {
+        "title": "FAQs",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "16342390840591fae0": {
       "type": "image-with-text",
       "blocks": {
@@ -189,47 +236,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "1634239498cc6c2a13": {
-      "type": "multicolumn",
-      "blocks": {
-        "1634239498cc6c2a13-0": {
-          "type": "column",
-          "settings": {
-            "title": "Can Kids Wear ExerTies?",
-            "text": "<p>Yes. ExerTies are great for anyone 7 years old or older.<\/p>"
-          }
-        },
-        "1634239498cc6c2a13-1": {
-          "type": "column",
-          "settings": {
-            "title": "Can I Clean Them?",
-            "text": "<p>ExerTies are dishwasher-safe and washing machine-safe on a delicate cycle.<\/p>"
-          }
-        },
-        "1634239498cc6c2a13-2": {
-          "type": "column",
-          "settings": {
-            "title": "How Far Can They Stretch?",
-            "text": "<p>ExerTies are 4 3\/4 inches and can stretch to up to 7 inches.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1634239498cc6c2a13-0",
-        "1634239498cc6c2a13-1",
-        "1634239498cc6c2a13-2"
-      ],
-      "settings": {
-        "title": "FAQs",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
@@ -237,8 +243,8 @@
     "product-recommendations",
     "1634239025816650d9",
     "16342387612b7fafa6",
+    "1634239498cc6c2a13",
     "16342390840591fae0",
-    "1634239379fc310ac0",
-    "1634239498cc6c2a13"
+    "1634239379fc310ac0"
   ]
 }
