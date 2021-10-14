@@ -67,14 +67,85 @@
         "enable_video_looping": false
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
+    "1634239880e8308d25": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634239880e8308d25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Improve Your Range of Motion"
+          }
+        },
+        "1634239880e8308d25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No one likes to feel constrained by a heavy sports uniform. Whether you’re in charge of throw-ins on the soccer field or have an intense volleyball rivalry, ExerTies™ can help improve your range of motion—and keep you cool as the game heats up.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634239880e8308d25-0",
+        "1634239880e8308d25-1"
+      ],
       "settings": {
-        "heading": "You may also like",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_vendor": false
+        "image": "shopify:\/\/shop_images\/exerties-product-new-4.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1634239978d1764666": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634239978d1764666-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Say Goodbye to Sleeve Rolls"
+          }
+        },
+        "1634239978d1764666-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Instead of rolling your sleeves up multiple times throughout a game, just put on your ExerTies™: They’re comfortable and have an easy-to-use button clasp to keep your sleeves in check all day long.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1634239978d1764666-0",
+        "1634239978d1764666-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-homepage-closeup.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16342390840591fae0": {
+      "type": "image-with-text",
+      "blocks": {
+        "16342390840591fae0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ridiculously Comfortable"
+          }
+        },
+        "16342390840591fae0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ExerTies are made from the softest, stretchy silicone. Not only are they chafe-free, but they're so comfortable you'll forget that they're there.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16342390840591fae0-0",
+        "16342390840591fae0-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-product-new-details-1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1634239025816650d9": {
@@ -124,6 +195,16 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_vendor": false
       }
     },
     "16342387612b7fafa6": {
@@ -194,33 +275,6 @@
         "swipe_on_mobile": false
       }
     },
-    "16342390840591fae0": {
-      "type": "image-with-text",
-      "blocks": {
-        "16342390840591fae0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ridiculously Comfortable"
-          }
-        },
-        "16342390840591fae0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>ExerTies are made from the softest, stretchy silicone. Not only are they chafe-free, but they're so comfortable you'll forget that they're there.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16342390840591fae0-0",
-        "16342390840591fae0-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-image-text-2.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
     "1634239379fc310ac0": {
       "type": "apps",
       "blocks": {
@@ -240,11 +294,13 @@
   },
   "order": [
     "main",
-    "product-recommendations",
+    "1634239880e8308d25",
+    "1634239978d1764666",
+    "16342390840591fae0",
     "1634239025816650d9",
+    "product-recommendations",
     "16342387612b7fafa6",
     "1634239498cc6c2a13",
-    "16342390840591fae0",
     "1634239379fc310ac0"
   ]
 }
