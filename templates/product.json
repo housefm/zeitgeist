@@ -290,6 +290,16 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1634240031e4963f67": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-product-new-details-2.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
@@ -301,6 +311,7 @@
     "product-recommendations",
     "16342387612b7fafa6",
     "1634239498cc6c2a13",
-    "1634239379fc310ac0"
+    "1634239379fc310ac0",
+    "1634240031e4963f67"
   ]
 }
