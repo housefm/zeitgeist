@@ -178,55 +178,6 @@
         "adapt_height_first_image": false
       }
     },
-    "1634239025816650d9": {
-      "type": "multicolumn",
-      "blocks": {
-        "1634239025816650d9-0": {
-          "type": "column",
-          "settings": {
-            "title": "Comfortable",
-            "text": "<p>Made from soft, stretchy silicone, ExerTies are so comfortable that you'll forget that they're there.<\/p>"
-          }
-        },
-        "1634239025816650d9-1": {
-          "type": "column",
-          "settings": {
-            "title": "Hypoallergenic",
-            "text": "<p>We only use medical-grade silicone, which is hypoallergenic and skin-contact safe.<\/p>"
-          }
-        },
-        "1634239025816650d9-2": {
-          "type": "column",
-          "settings": {
-            "title": "Regulation-Safe",
-            "text": "<p>ExerTies were invented for soccer, volleyball, and softball players and follow league safety protocols.<\/p>"
-          }
-        },
-        "06161a75-d58d-43e4-8f4b-4297840bc4a5": {
-          "type": "column",
-          "settings": {
-            "title": "Easy to Fasten",
-            "text": "<p>No more fussing with sleeve rolls. ExerTies feature an easy-to-fasten yet secure button closure.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1634239025816650d9-0",
-        "1634239025816650d9-1",
-        "1634239025816650d9-2",
-        "06161a75-d58d-43e4-8f4b-4297840bc4a5"
-      ],
-      "settings": {
-        "title": "4 Reasons to Love ExerTies",
-        "image_width": "full",
-        "image_ratio": "square",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -301,7 +252,6 @@
     "1634239978d1764666",
     "16342390840591fae0",
     "1634240031e4963f67",
-    "1634239025816650d9",
     "product-recommendations",
     "1634239379fc310ac0",
     "1634239498cc6c2a13"
