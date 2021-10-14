@@ -42,10 +42,37 @@
           "settings": {
           }
         },
+        "5aa9d581-66cd-488e-95e0-027761c6022e": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specs",
+            "content": "<p>ExerTies measure 4 3\/4 inches in length and can stretch up to 7 inches.<\/p><p>The ExerTies (6-Pack) includes 12 individual ExerTies for 6 complete sets.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "d2dea992-1134-401a-b49d-9644d112f1a8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care",
+            "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
+        "3c18e828-22f3-4051-b934-633e5958f7a5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Returns",
+            "content": "<p>All orders ship within three business days of purchase. We accept returns within 14 days of delivery.<\/p><p>See our <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">shipping policy<\/a> and <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">return policy<\/a> for more information.<\/p>",
+            "page": "",
+            "icon": "none"
+          }
+        },
         "5d915cda-1629-4137-9651-9b7d4d427d90": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "DISCLAIMER",
+            "heading": "Disclaimer",
             "content": "<p>Choking hazard. Small parts. ExerTies are not suitable for children under 3 years old.<\/p>",
             "page": "",
             "icon": "none"
@@ -60,6 +87,9 @@
         "variant_picker",
         "buy_buttons",
         "description",
+        "5aa9d581-66cd-488e-95e0-027761c6022e",
+        "d2dea992-1134-401a-b49d-9644d112f1a8",
+        "3c18e828-22f3-4051-b934-633e5958f7a5",
         "5d915cda-1629-4137-9651-9b7d4d427d90"
       ],
       "settings": {
