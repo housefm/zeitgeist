@@ -148,6 +148,16 @@
         "layout": "image_first"
       }
     },
+    "1634240031e4963f67": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-product-new-details-2.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
     "1634239025816650d9": {
       "type": "multicolumn",
       "blocks": {
@@ -191,7 +201,7 @@
         "image_width": "full",
         "image_ratio": "square",
         "column_alignment": "left",
-        "background_style": "secondary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
@@ -207,31 +217,20 @@
         "show_vendor": false
       }
     },
-    "16342387612b7fafa6": {
-      "type": "image-with-text",
+    "1634239379fc310ac0": {
+      "type": "apps",
       "blocks": {
-        "16342387612b7fafa6-0": {
-          "type": "heading",
+        "8c5b8025-5080-43ce-96c0-347dac223c7a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "heading": "Up Your Game"
-          }
-        },
-        "16342387612b7fafa6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Stay cool (and avoid those pesky tan lines) with ExerTies: the go-to sleeve straps for athletes everywhere.<\/p>"
           }
         }
       },
       "block_order": [
-        "16342387612b7fafa6-0",
-        "16342387612b7fafa6-1"
+        "8c5b8025-5080-43ce-96c0-347dac223c7a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-product-new-details-2.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "include_margins": true
       }
     },
     "1634239498cc6c2a13": {
@@ -269,36 +268,10 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "1634239379fc310ac0": {
-      "type": "apps",
-      "blocks": {
-        "8c5b8025-5080-43ce-96c0-347dac223c7a": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "8c5b8025-5080-43ce-96c0-347dac223c7a"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "1634240031e4963f67": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-product-new-details-2.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
       }
     }
   },
@@ -307,11 +280,10 @@
     "1634239880e8308d25",
     "1634239978d1764666",
     "16342390840591fae0",
+    "1634240031e4963f67",
     "1634239025816650d9",
     "product-recommendations",
-    "16342387612b7fafa6",
-    "1634239498cc6c2a13",
     "1634239379fc310ac0",
-    "1634240031e4963f67"
+    "1634239498cc6c2a13"
   ]
 }
