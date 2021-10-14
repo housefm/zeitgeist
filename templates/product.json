@@ -68,15 +68,6 @@
             "page": "",
             "icon": "none"
           }
-        },
-        "5d915cda-1629-4137-9651-9b7d4d427d90": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Disclaimer",
-            "content": "<p>Choking hazard. Small parts. ExerTies are not suitable for children under 3 years old.<\/p>",
-            "page": "",
-            "icon": "none"
-          }
         }
       },
       "block_order": [
@@ -89,8 +80,7 @@
         "description",
         "5aa9d581-66cd-488e-95e0-027761c6022e",
         "d2dea992-1134-401a-b49d-9644d112f1a8",
-        "3c18e828-22f3-4051-b934-633e5958f7a5",
-        "5d915cda-1629-4137-9651-9b7d4d427d90"
+        "3c18e828-22f3-4051-b934-633e5958f7a5"
       ],
       "settings": {
         "enable_sticky_info": true,
