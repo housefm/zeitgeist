@@ -115,31 +115,45 @@
         "swipe_on_mobile": false
       }
     },
-    "16342376415f8bb005": {
-      "type": "image-with-text",
+    "1634238097fa02a378": {
+      "type": "multicolumn",
       "blocks": {
-        "16342376415f8bb005-0": {
-          "type": "heading",
+        "1634238097fa02a378-0": {
+          "type": "column",
           "settings": {
-            "heading": "Image with text"
+            "title": "",
+            "text": "<p>\"Love that it comes in the translucent option, which can be worn with any color shirt and not stand out. The soft silicone is easy on your skin, and doesn't damage your shirt like tape would.\"<\/p>"
           }
         },
-        "16342376415f8bb005-1": {
-          "type": "text",
+        "1634238097fa02a378-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "",
+            "text": "<p>\"I work in a distribution warehouse with a dress code and these babies make my life alot easier! Silicone stays in place, comfortable like they\"re not even there.\"<\/p>"
+          }
+        },
+        "1634238097fa02a378-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>\"These were a gift for my daughter and she loves them. She is always rolling up the sleeves of her t-shirts in the summer. These hold the sleeves up so your shirt becomes a sleeveless shirt.\"<\/p>"
           }
         }
       },
       "block_order": [
-        "16342376415f8bb005-0",
-        "16342376415f8bb005-1"
+        "1634238097fa02a378-0",
+        "1634238097fa02a378-1",
+        "1634238097fa02a378-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-homepage-plank.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "title": "What People Are Saying",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
@@ -148,6 +162,6 @@
     "16342368216047c888",
     "16318848828683d580",
     "16342380463e8fd44b",
-    "16342376415f8bb005"
+    "1634238097fa02a378"
   ]
 }
