@@ -96,6 +96,68 @@
         "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<h2>Why The Best Sleeve Straps for Sports Are Silicone<\/h2>\n\n<p>Commonly found in medical devices and kitchen products, silicone is an amazing material for athletic gear for a number of reasons:<\/p>\n\n<ul>\n<li>Medical-grade silicone can be hypoallergenic and skin-contact safe, unlike lower quality plastic.<\/li>\n<li>ExerTies t-shirt sleeve straps are great for sports because they’re soft and stretchy. This means that they can securely hold sleeves of many sizes.<\/li>\n<li>Silicone is dishwasher and washing machine-safe and will last for a long time, ensuring that you have a durable (and clean) t-shirt sleeve strap for your sports games.<\/li>\n<li>Most importantly for soccer players, these t-shirt sleeve straps abide by soccer regulations because they don’t have any hard, metal components.<\/li>\n<\/ul>\n\n<h2>Who Can Wear These T-Shirt Sleeve Straps?<\/h2>\n\n<p>ExerTies fit comfortably on athletes ages 7 and up, including adults. Since their invention, these t-shirt sleeve straps have become popular beyond sports: anyone doing strenuous activities in a hot environment can benefit, as do people who recently got arm tattoos or anyone looking to avoid a farmer’s tan.<\/p>\n\n<h3>Common Sports Sleeve Strap Uses, According to Our Reviewers:<\/h3>\n<ul>\n<li>Soccer, volleyball, and frisbee players<\/li>\n<li>Warehouse and other people who engage in demanding jobs in warm environments<\/li>\n<li>Those looking to avoid a farmer’s tan<\/li>\n<li>People who have recently gotten arm tattoos\nAnyone who wants to keep cool on a hot day<\/li>\n<\/div>"
       }
     },
+    "1634311054968b289b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1634311054968b289b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sports Sleeve Straps for Kids"
+          }
+        },
+        "1634311054968b289b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"These were a gift for my daughter and she loves them. She is always rolling up the sleeves of her t-shirts in the summer. These hold the sleeves up so your shirt becomes a sleeveless shirt.\" - Reviewer<\/p>"
+          }
+        },
+        "1634311054968b289b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/exerties"
+          }
+        }
+      },
+      "block_order": [
+        "1634311054968b289b-0",
+        "1634311054968b289b-1",
+        "1634311054968b289b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/t-shirt-sleeve-straps-sports-3.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "163431104801bf0049": {
+      "type": "image-with-text",
+      "blocks": {
+        "cfefd32d-784e-4808-b0a9-17a60dd2d666": {
+          "type": "heading",
+          "settings": {
+            "heading": "Easy-to-Use Sleeve Straps"
+          }
+        },
+        "163431104801bf0049-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Love that it comes in the translucent option, which can be worn with any color shirt and not stand out. The soft silicone is easy on your skin, and doesn't damage your shirt like tape would.\" - Reviewer<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "cfefd32d-784e-4808-b0a9-17a60dd2d666",
+        "163431104801bf0049-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/t-shirt-sleeve-straps-sports-5.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1634310159efa13a0a": {
       "type": "collage",
       "blocks": {
@@ -139,6 +201,8 @@
     "16343091203524915f",
     "163430952411ed4e9c",
     "163430987334a8f2e9",
+    "1634311054968b289b",
+    "163431104801bf0049",
     "1634310159efa13a0a",
     "main"
   ]
