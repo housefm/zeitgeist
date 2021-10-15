@@ -43,15 +43,56 @@
         "adapt_height_first_image": true
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "16343091203524915f": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"page-width page-width--wide\">\n<p>The Story Behind the Best Sleeve Straps for Sports\nWhile watching his daughter play soccer on a hot day, inventor Andrew Powell noticed that the players kept rolling up their sleeves — which would soon unroll, interfering with their game.<\/p>\n\n<p>While velcro sleeve straps are scratchy and uncomfortable and tape is hard to remove and wasteful. Fabric sleeve straps can also be challenging to fasten and hard to clean effectively.<p>\n\n<p>So Andrew had an idea: Why not make t-shirt sleeve straps for sports made out of silicone?<\/p>\n\n<p>After many iterations, Andrew and his team came up with ExerTies: hypoallergenic, chafe-free silicone t-shirt scrunchies that keep your sleeves up throughout an entire game — all while abiding by soccer safety regulations.<\/p>\n\n<h2>Why The Best Sleeve Straps for Sports Are Silicone<\/h2>\n\n<p>Commonly found in medical devices and kitchen products, silicone is an amazing material for athletic gear for a number of reasons:<\/p>\n\n<ul>\n<li>Medical-grade silicone can be hypoallergenic and skin-contact safe, unlike lower quality plastic.<\/li>\n<li>ExerTies t-shirt sleeve straps are great for sports because they’re soft and stretchy. This means that they can securely hold sleeves of many sizes.<\/li>\n<li>Silicone is dishwasher and washing machine-safe and will last for a long time, ensuring that you have a durable (and clean) t-shirt sleeve strap for your sports games.<\/li>\n<li>Most importantly for soccer players, these t-shirt sleeve straps abide by soccer regulations because they don’t have any hard, metal components.<\/li>\n<\/div>"
+        "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<h2>The Story Behind the Best Sleeve Straps for Sports<\/h2>\n<p>While watching his daughter play soccer on a hot day, inventor Andrew Powell noticed that the players kept rolling up their sleeves — which would soon unroll, interfering with their game.<\/p>\n\n<p>While velcro sleeve straps are scratchy and uncomfortable and tape is hard to remove and wasteful. Fabric sleeve straps can also be challenging to fasten and hard to clean effectively.<p>\n\n<p>So Andrew had an idea: Why not make t-shirt sleeve straps for sports made out of silicone?<\/p>\n\n<p>After many iterations, Andrew and his team came up with ExerTies: hypoallergenic, chafe-free silicone t-shirt scrunchies that keep your sleeves up throughout an entire game — all while abiding by soccer safety regulations.<\/p>\n\n<h2>Why The Best Sleeve Straps for Sports Are Silicone<\/h2>\n\n<p>Commonly found in medical devices and kitchen products, silicone is an amazing material for athletic gear for a number of reasons:<\/p>\n\n<ul>\n<li>Medical-grade silicone can be hypoallergenic and skin-contact safe, unlike lower quality plastic.<\/li>\n<li>ExerTies t-shirt sleeve straps are great for sports because they’re soft and stretchy. This means that they can securely hold sleeves of many sizes.<\/li>\n<li>Silicone is dishwasher and washing machine-safe and will last for a long time, ensuring that you have a durable (and clean) t-shirt sleeve strap for your sports games.<\/li>\n<li>Most importantly for soccer players, these t-shirt sleeve straps abide by soccer regulations because they don’t have any hard, metal components.<\/li>\n<\/div>"
+      }
+    },
+    "163430952411ed4e9c": {
+      "type": "multicolumn",
+      "blocks": {
+        "163430952411ed4e9c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Stay Cool on Hot Game Days",
+            "text": "<p>Say goodbye to fussy sleeve rolls: ExerTies will keep you cool on game day, no adjustments needed. As they're 100% silicone, they abide by soccer regulations, too.<\/p>"
+          }
+        },
+        "163430952411ed4e9c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "163430952411ed4e9c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "163430952411ed4e9c-0",
+        "163430952411ed4e9c-1",
+        "163430952411ed4e9c-2"
+      ],
+      "settings": {
+        "title": "X Reasons to Love These Silicone Sleeve Straps for Sports",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
       }
     }
   },
@@ -59,7 +100,8 @@
     "1634308670a5f88cee",
     "16343088299cdef811",
     "163430883907923ee9",
-    "main",
-    "16343091203524915f"
+    "16343091203524915f",
+    "163430952411ed4e9c",
+    "main"
   ]
 }
