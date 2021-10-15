@@ -12,14 +12,14 @@
         "16343088299cdef811-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Introducing t-shirt sleeve straps for sports that will improve your range of motion while keeping you cool on hot days. Invented by a father for his daughter’s soccer team, ExerTies t-shirt sleeve straps are made from stretchy, comfortable, and hypoallergenic medical-grade silicone and feature an easy-to-fasten button clasp.<\/p>"
           }
         },
         "16343088299cdef811-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/exerties",
             "button_style_secondary": false
           }
         }
