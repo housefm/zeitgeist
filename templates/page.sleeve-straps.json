@@ -99,14 +99,6 @@
     "1634310159efa13a0a": {
       "type": "collage",
       "blocks": {
-        "0d8457b5-e153-41b6-a6de-7c655c1816d3": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/t-shirt-sleeve-straps-sports-3.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
         "a0f0b301-a3cd-43a8-a2cc-4d85626f0e1c": {
           "type": "image",
           "settings": {
@@ -114,16 +106,24 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "0d8457b5-e153-41b6-a6de-7c655c1816d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/t-shirt-sleeve-straps-sports-3.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
-        "0d8457b5-e153-41b6-a6de-7c655c1816d3",
-        "a0f0b301-a3cd-43a8-a2cc-4d85626f0e1c"
+        "a0f0b301-a3cd-43a8-a2cc-4d85626f0e1c",
+        "0d8457b5-e153-41b6-a6de-7c655c1816d3"
       ],
       "settings": {
         "heading": "",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "desktop_layout": "right",
+        "mobile_layout": "column"
       }
     },
     "main": {
