@@ -33,6 +33,16 @@
         "full_width": true
       }
     },
+    "163430883907923ee9": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/exerties-t-shirt-sleeve-straps-hero.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -42,6 +52,7 @@
   "order": [
     "1634308670a5f88cee",
     "16343088299cdef811",
+    "163430883907923ee9",
     "main"
   ]
 }
