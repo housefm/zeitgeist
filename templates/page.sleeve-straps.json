@@ -47,12 +47,19 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16343091203524915f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": ""
+      }
     }
   },
   "order": [
     "1634308670a5f88cee",
     "16343088299cdef811",
     "163430883907923ee9",
-    "main"
+    "main",
+    "16343091203524915f"
   ]
 }
