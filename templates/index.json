@@ -3,7 +3,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/exerties-spark-slideshow-5.jpg",
+        "image": "shopify:\/\/shop_images\/hydroponique-video-product-banner.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
@@ -51,7 +51,6 @@
         "16318848828683d580-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/exerties-square-fastening.jpg",
             "title": "Designed for Athletes",
             "text": "<p>Don't let thick sports uniforms constrain you: ExerTies comply with soccer and volleyball regulations. Bring on the throw-ins.<\/p>"
           }
@@ -59,7 +58,6 @@
         "16318848828683d580-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/exerties-black-homepage-1.jpg",
             "title": "Effortlessly Comfortable",
             "text": "<p>These athlete-approved sleeve straps are made from soft, stretchy silicone so they never chafe. You'll forget they're even there.<\/p>"
           }
@@ -86,7 +84,6 @@
         "16342380463e8fd44b-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/exerties-product-new-details-1.jpg",
             "title": "Easy to Fasten",
             "text": "<p>No fussing before the big game. ExerTies feature a simple yet secure button closure and stretch to accommodate your sleeves.<\/p>"
           }
@@ -94,7 +91,6 @@
         "16342380463e8fd44b-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/exerties-spark-hypoallergenic.jpg",
             "title": "Hypoallergenic",
             "text": "<p>ExerTies are made from the same material used in medical devices, meaning that they are skin contact safe.<\/p>"
           }
