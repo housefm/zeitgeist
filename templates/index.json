@@ -90,20 +90,11 @@
             "image_padding": false,
             "color_scheme": "accent-2"
           }
-        },
-        "d238b260-c1cd-462e-b747-b0ed847ac366": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hydroponique-collage-3.jpg",
-            "image_padding": false,
-            "color_scheme": "accent-2"
-          }
         }
       },
       "block_order": [
         "d15589cb-206d-4bf6-a85f-3f2e5b5766c4",
-        "1f780193-28ab-40bd-bfa3-4bca429663ae",
-        "d238b260-c1cd-462e-b747-b0ed847ac366"
+        "1f780193-28ab-40bd-bfa3-4bca429663ae"
       ],
       "settings": {
         "heading": "Multimedia collage",
