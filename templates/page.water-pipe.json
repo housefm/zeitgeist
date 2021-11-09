@@ -11,11 +11,40 @@
         "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<div class=\"rte\">\n<p>The best silicone bong packs a punch. Engineered from medical caliber materials for extra durability, the iconic Hydroponique silicone water pipe is the best in class when it comes to potent, flavorful hits. It's not just another pretty face, either. The best silicone bong is wicked easy to clean; just throw it in the dishwasher or wash it by hand (instructions further down).<\/p>\n<p>Hydroponique's thoughtful design also includes a suction base for that friend who drops everything, a peace sign ice catcher, and the perfectly angled tube for effortless hits — all made from soft, stretchy silicone.<\/p><\/div>"
       }
     },
-    "163648292175fbe6ab": {
+    "1636483252964d95cc": {
       "type": "image-banner",
+      "blocks": {
+        "1636483252964d95cc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "1636483252964d95cc-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1636483252964d95cc-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1636483252964d95cc-0",
+        "1636483252964d95cc-1",
+        "1636483252964d95cc-2"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hydroponique-dawn-silicone-bong-1.jpg",
-        "image_2": "shopify:\/\/shop_images\/hydroponique-dawn-silicone-bong-2.jpg",
+        "image": "shopify:\/\/shop_images\/hydroponique-silicone-bong-dawn-hero.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
@@ -53,7 +82,7 @@
   "order": [
     "main",
     "16364829419b940420",
-    "163648292175fbe6ab",
+    "1636483252964d95cc",
     "16364829392ccc7805"
   ]
 }
