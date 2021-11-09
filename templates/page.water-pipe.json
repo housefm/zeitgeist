@@ -14,33 +14,19 @@
     "1636483252964d95cc": {
       "type": "image-banner",
       "blocks": {
-        "1636483252964d95cc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "1636483252964d95cc-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
         "1636483252964d95cc-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/products\/hydroponique",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "1636483252964d95cc-0",
-        "1636483252964d95cc-1",
         "1636483252964d95cc-2"
       ],
       "settings": {
@@ -54,23 +40,16 @@
     "16364829392ccc7805": {
       "type": "rich-text",
       "blocks": {
-        "16364829392ccc7805-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
         "16364829392ccc7805-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/hydroponique",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "16364829392ccc7805-1",
         "16364829392ccc7805-2"
       ],
       "settings": {
