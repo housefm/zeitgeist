@@ -30,8 +30,8 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/exerties",
-            "button_style_secondary": true
+            "button_link": "shopify:\/\/products\/hydroponique",
+            "button_style_secondary": false
           }
         }
       },
