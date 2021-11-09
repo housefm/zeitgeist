@@ -41,13 +41,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "949a15fe-668d-4b6c-b177-4cda407c30b2": {
-            "type": "text",
-            "settings": {
-              "heading": "Disclaimer",
-              "subtext": "<p>ALL RIGHTS RESERVED. WEBSITE CONTENT, PRODUCTS, AND SERVICES ARE FOR INFORMATIONAL PURPOSES ONLY. HYDROPONIQUE AND ASSOCIATED BRANDS DO NOT PROVIDE MEDICAL OR LEGAL ADVICE OR MEDICAL DIAGNOSIS OR TREATMENT. THE CONTENT AND PRODUCTS ON THIS SITE IS ONLY INTENDED FOR VIEWERS AGES 21+. FOR MORE INFORMATION, PLEASE SEE OUR TERMS AND CONDITIONS.<\/p>"
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -78,7 +71,6 @@
           }
         },
         "block_order": [
-          "949a15fe-668d-4b6c-b177-4cda407c30b2",
           "footer-0",
           "65607c22-fc6c-47a3-8cfc-28e8ddcc36b0",
           "e24f4b91-d383-4050-9ec0-dc9284674454",
