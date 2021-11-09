@@ -72,6 +72,41 @@
         "layout": "text_first"
       }
     },
+    "1636474439c3772c9b": {
+      "type": "image-with-text",
+      "blocks": {
+        "1636474439c3772c9b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1636474439c3772c9b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1636474439c3772c9b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1636474439c3772c9b-0",
+        "1636474439c3772c9b-1",
+        "1636474439c3772c9b-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hydroponique-image-text-5.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "163647314427c9770d": {
       "type": "collage",
       "blocks": {
@@ -148,6 +183,7 @@
     "image_banner",
     "16342368216047c888",
     "16364729910268f648",
+    "1636474439c3772c9b",
     "163647314427c9770d",
     "16364740303747edc4"
   ]
