@@ -124,20 +124,11 @@
           "settings": {
             "text": "<p>Engineered by people who love herb as much as you do. Not only does Hydroponique pack a punch, but it's built from medical-grade silicone, which will never affect the quality of your blend.<\/p>"
           }
-        },
-        "16364813034f355ca9-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "16364813034f355ca9-0",
-        "16364813034f355ca9-1",
-        "16364813034f355ca9-2"
+        "16364813034f355ca9-1"
       ],
       "settings": {
         "color_scheme": "background-1",
