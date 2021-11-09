@@ -10,41 +10,6 @@
         "adapt_height_first_image": true
       }
     },
-    "16364729910268f648": {
-      "type": "image-with-text",
-      "blocks": {
-        "16364729910268f648-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shatter-Proof Silicone Water Pipes"
-          }
-        },
-        "16364729910268f648-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The last word in smoking accessories, Hydroponique is a shatter-proof <a href=\"\/pages\/silicone-bong-water-pipe\" title=\"The Best Silicone Bong: Shatter-Proof, Potent, & Easy to Clean\">silicone bong<\/a> crafted for potency.<\/p>"
-          }
-        },
-        "16364729910268f648-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/hydroponique"
-          }
-        }
-      },
-      "block_order": [
-        "16364729910268f648-0",
-        "16364729910268f648-1",
-        "16364729910268f648-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hydroponique-dawn-homepage-1.jpg",
-        "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "text_first"
-      }
-    },
     "16342368216047c888": {
       "type": "rich-text",
       "blocks": {
@@ -78,6 +43,41 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "16364729910268f648": {
+      "type": "image-with-text",
+      "blocks": {
+        "16364729910268f648-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Crafted for Potency"
+          }
+        },
+        "16364729910268f648-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hydroponique <\/p>"
+          }
+        },
+        "16364729910268f648-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/hydroponique"
+          }
+        }
+      },
+      "block_order": [
+        "16364729910268f648-0",
+        "16364729910268f648-1",
+        "16364729910268f648-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hydroponique-dawn-homepage-1.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "text_first"
       }
     },
     "163647412641e7b14f": {
@@ -188,8 +188,8 @@
   },
   "order": [
     "image_banner",
-    "16364729910268f648",
     "16342368216047c888",
+    "16364729910268f648",
     "163647412641e7b14f",
     "163647314427c9770d",
     "16364740303747edc4"
