@@ -115,12 +115,53 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "16364740303747edc4": {
+      "type": "image-banner",
+      "blocks": {
+        "16364740303747edc4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "16364740303747edc4-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16364740303747edc4-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16364740303747edc4-0",
+        "16364740303747edc4-1",
+        "16364740303747edc4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hydroponique-silicone-bong-cleaning-1.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
     "image_banner",
     "16342368216047c888",
     "16364729910268f648",
-    "163647314427c9770d"
+    "163647314427c9770d",
+    "16364740303747edc4"
   ]
 }
