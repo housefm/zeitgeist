@@ -41,6 +41,13 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "949a15fe-668d-4b6c-b177-4cda407c30b2": {
+            "type": "text",
+            "settings": {
+              "heading": "Disclaimer",
+              "subtext": "<p>ALL RIGHTS RESERVED. WEBSITE CONTENT, PRODUCTS, AND SERVICES ARE FOR INFORMATIONAL PURPOSES ONLY. HYDROPONIQUE AND ASSOCIATED BRANDS DO NOT PROVIDE MEDICAL OR LEGAL ADVICE OR MEDICAL DIAGNOSIS OR TREATMENT. THE CONTENT AND PRODUCTS ON THIS SITE IS ONLY INTENDED FOR VIEWERS AGES 21+. FOR MORE INFORMATION, PLEASE SEE OUR TERMS AND CONDITIONS.<\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -62,23 +69,24 @@
               "menu": "footer-menu-3"
             }
           },
-          "6fb20662-78bb-4787-b53c-fa8ff430cc13": {
+          "1d47442d-cb5a-4543-99d6-cfd6cdd34810": {
             "type": "link_list",
             "settings": {
-              "heading": "Advanced Guides",
+              "heading": "Quick links",
               "menu": "footer-menu-5"
             }
           }
         },
         "block_order": [
+          "949a15fe-668d-4b6c-b177-4cda407c30b2",
           "footer-0",
           "65607c22-fc6c-47a3-8cfc-28e8ddcc36b0",
           "e24f4b91-d383-4050-9ec0-dc9284674454",
-          "6fb20662-78bb-4787-b53c-fa8ff430cc13"
+          "1d47442d-cb5a-4543-99d6-cfd6cdd34810"
         ],
         "settings": {
           "color_scheme": "accent-1",
-          "newsletter_enable": true,
+          "newsletter_enable": false,
           "newsletter_heading": "",
           "show_social": false,
           "enable_country_selector": false,
