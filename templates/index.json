@@ -4,7 +4,7 @@
       "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/hydroponique-banner-dawn-1.jpg",
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": true
@@ -16,14 +16,14 @@
         "16342368216047c888-0": {
           "type": "heading",
           "settings": {
-            "heading": "Up Your Game with ExerTies™",
+            "heading": "Shatter-Proof Silicone Water Pipes",
             "heading_size": "medium"
           }
         },
         "16342368216047c888-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Comfortable, hypoallergenic silicone sleeve straps for athletes of all ages.<\/p>"
+            "text": "<p>Introducing the last word in smoking accessories. Hydroponique is a shatter-proof <a href=\"\/pages\/silicone-bong-water-pipe\" title=\"The Best Silicone Bong: Shatter-Proof, Potent, & Easy to Clean\">silicone bong<\/a> crafted for potency. Made in the USA from hypoallergenic silicone.<\/p>"
           }
         },
         "16342368216047c888-2": {
