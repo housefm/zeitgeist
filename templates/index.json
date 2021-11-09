@@ -168,27 +168,19 @@
         "16364813517f7c0bd5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Dishwasher-Safe"
           }
         },
         "16364813517f7c0bd5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16364813517f7c0bd5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Because no one deserves a grimy bong. Hydroponique is engineered from tough, medical-grade materials, so you can throw this bad boy in the dishwasher as often as your heart desires.<\/p>"
           }
         }
       },
       "block_order": [
         "16364813517f7c0bd5-0",
-        "16364813517f7c0bd5-1",
-        "16364813517f7c0bd5-2"
+        "16364813517f7c0bd5-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hydroponique-image-text-7.jpg",
