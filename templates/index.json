@@ -3,11 +3,11 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/hydroponique-video-header.jpg",
+        "image": "shopify:\/\/shop_images\/hydroponique-banner-dawn-1.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "adapt_height_first_image": true
       }
     },
     "16342368216047c888": {
@@ -151,6 +151,40 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "16364729910268f648": {
+      "type": "image-with-text",
+      "blocks": {
+        "16364729910268f648-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16364729910268f648-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16364729910268f648-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16364729910268f648-0",
+        "16364729910268f648-1",
+        "16364729910268f648-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -158,6 +192,7 @@
     "16342368216047c888",
     "16318848828683d580",
     "16342380463e8fd44b",
-    "1634238097fa02a378"
+    "1634238097fa02a378",
+    "16364729910268f648"
   ]
 }
