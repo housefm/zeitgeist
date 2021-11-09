@@ -141,27 +141,19 @@
         "163648130746d10154-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text"
+            "heading": "Suction Base"
           }
         },
         "163648130746d10154-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "163648130746d10154-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Great for the edge of your coffee table and that friend who broke your last bong. Sigh. That won't happen with Hydroponique.<\/p>"
           }
         }
       },
       "block_order": [
         "163648130746d10154-0",
-        "163648130746d10154-1",
-        "163648130746d10154-2"
+        "163648130746d10154-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hydroponique-image-text-dawn-6.jpg",
