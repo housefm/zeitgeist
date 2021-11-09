@@ -101,30 +101,47 @@
     },
     "16364806002cb345af": {
       "type": "image-banner",
-      "blocks": {
-        "16364806002cb345af-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Spiritually Strong Hits"
-          }
-        },
-        "16364806002cb345af-1": {
-          "type": "text",
-          "settings": {
-            "text": "Engineered by people who love herb as much as you do. Not only does Hydroponique pack a punch, but it's built from medical-grade silicone, which will never affect the quality of your blend."
-          }
-        }
-      },
-      "block_order": [
-        "16364806002cb345af-0",
-        "16364806002cb345af-1"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hydroponique-collage-2.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
+      }
+    },
+    "16364813034f355ca9": {
+      "type": "rich-text",
+      "blocks": {
+        "16364813034f355ca9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spiritually Strong Hits",
+            "heading_size": "medium"
+          }
+        },
+        "16364813034f355ca9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Engineered by people who love herb as much as you do. Not only does Hydroponique pack a punch, but it's built from medical-grade silicone, which will never affect the quality of your blend.<\/p>"
+          }
+        },
+        "16364813034f355ca9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16364813034f355ca9-0",
+        "16364813034f355ca9-1",
+        "16364813034f355ca9-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
@@ -133,6 +150,7 @@
     "16342368216047c888",
     "16364729910268f648",
     "1636474439c3772c9b",
-    "16364806002cb345af"
+    "16364806002cb345af",
+    "16364813034f355ca9"
   ]
 }
