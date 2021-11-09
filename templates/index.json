@@ -92,21 +92,13 @@
         "163647412641e7b14f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "163647412641e7b14f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>With a silicone peace sign ice catcher, every Hydroponique hit is silky smooth.<\/p>"
           }
         }
       },
       "block_order": [
         "163647412641e7b14f-0",
-        "163647412641e7b14f-1",
-        "163647412641e7b14f-2"
+        "163647412641e7b14f-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/hydroponique-dawn-homepage-2.jpg",
