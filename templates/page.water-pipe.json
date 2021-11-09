@@ -8,7 +8,7 @@
     "16364829419b940420": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<div class=\"rte\">\n<p>The best silicone bong packs a punch. Engineered from medical caliber materials for extra durability, the iconic Hydroponique silicone water pipe is the best in class when it comes to potent, flavorful hits. It's not just another pretty face, either. The best silicone bong is wicked easy to clean; just throw it in the dishwasher or wash it by hand (instructions further down).<\/p>\n<p>Hydroponique's thoughtful design also includes a suction base for that friend who drops everything, a peace sign ice catcher, and the perfectly angled tube for effortless hits — all made from soft, stretchy silicone.<\/p><\/div>"
+        "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<div class=\"rte\">\n<p>The best silicone bong packs a punch. Engineered from medical caliber materials for extra durability, the iconic Hydroponique silicone water pipe is the best in class when it comes to potent, flavorful hits. It's not just another pretty face, either. The best silicone bong is wicked easy to clean; just throw it in the dishwasher or wash it by hand (instructions further down).<\/p>"
       }
     },
     "1636483252964d95cc": {
@@ -40,12 +40,19 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1636483819bcbf135e": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width page-width--narrow\">\n<div class=\"rte\"><p>Hydroponique's thoughtful design also includes a suction base for that friend who drops everything, a peace sign ice catcher, and the perfectly angled tube for effortless hits — all made from soft, stretchy silicone.<\/p><\/div>"
+      }
     }
   },
   "order": [
     "main",
     "16364829419b940420",
     "1636483252964d95cc",
-    "16364829392ccc7805"
+    "16364829392ccc7805",
+    "1636483819bcbf135e"
   ]
 }
