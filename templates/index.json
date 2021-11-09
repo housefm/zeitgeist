@@ -98,85 +98,12 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
-    },
-    "163647314427c9770d": {
-      "type": "collage",
-      "blocks": {
-        "d15589cb-206d-4bf6-a85f-3f2e5b5766c4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hydroponique-collage-4.jpg",
-            "image_padding": false,
-            "color_scheme": "accent-2"
-          }
-        },
-        "1f780193-28ab-40bd-bfa3-4bca429663ae": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hydroponique-collage-2_f189f534-8c5b-4f38-bce9-00d9eb87c31c.jpg",
-            "image_padding": false,
-            "color_scheme": "accent-2"
-          }
-        }
-      },
-      "block_order": [
-        "d15589cb-206d-4bf6-a85f-3f2e5b5766c4",
-        "1f780193-28ab-40bd-bfa3-4bca429663ae"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "column"
-      }
-    },
-    "16364740303747edc4": {
-      "type": "image-banner",
-      "blocks": {
-        "16364740303747edc4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "16364740303747edc4-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "16364740303747edc4-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "16364740303747edc4-0",
-        "16364740303747edc4-1",
-        "16364740303747edc4-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/hydroponique-silicone-bong-cleaning-1.jpg",
-        "image_2": "shopify:\/\/shop_images\/hydroponique-best-weed-strains-colorful.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
-      }
     }
   },
   "order": [
     "image_banner",
     "16342368216047c888",
     "16364729910268f648",
-    "1636474439c3772c9b",
-    "163647314427c9770d",
-    "16364740303747edc4"
+    "1636474439c3772c9b"
   ]
 }
