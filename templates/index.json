@@ -10,56 +10,6 @@
         "adapt_height_first_image": true
       }
     },
-    "16364817248cc61735": {
-      "type": "multicolumn",
-      "blocks": {
-        "16364817248cc61735-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/hydroponique-image-text-7.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16364817248cc61735-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "16364817248cc61735-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "c5f132eb-9709-4376-bb72-42be52f0378a": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16364817248cc61735-0",
-        "16364817248cc61735-1",
-        "16364817248cc61735-2",
-        "c5f132eb-9709-4376-bb72-42be52f0378a"
-      ],
-      "settings": {
-        "title": "Shatter-Proof Silicone",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "16342368216047c888": {
       "type": "rich-text",
       "blocks": {
@@ -143,10 +93,51 @@
         "1636474439c3772c9b-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/hydroponique-image-text-5.jpg",
+        "image": "shopify:\/\/shop_images\/hydroponique-image-text-8.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "16364817248cc61735": {
+      "type": "multicolumn",
+      "blocks": {
+        "16364817248cc61735-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16364817248cc61735-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "c5f132eb-9709-4376-bb72-42be52f0378a": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16364817248cc61735-1",
+        "16364817248cc61735-2",
+        "c5f132eb-9709-4376-bb72-42be52f0378a"
+      ],
+      "settings": {
+        "title": "Shatter-Proof Silicone",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "16364806002cb345af": {
@@ -242,10 +233,10 @@
   },
   "order": [
     "image_banner",
-    "16364817248cc61735",
     "16342368216047c888",
     "16364729910268f648",
     "1636474439c3772c9b",
+    "16364817248cc61735",
     "16364806002cb345af",
     "16364813034f355ca9",
     "163648130746d10154",
